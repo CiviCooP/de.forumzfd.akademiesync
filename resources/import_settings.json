@@ -1,0 +1,37 @@
+{
+  "difference_activity_type_id": {
+    "name": "difference_activity_type_id",
+    "label": "Activity Type when data difference on import",
+    "value": ""
+  },
+  "difference_assignee_id": {
+    "name": "difference_assignee_id",
+    "label": "Employee to follow up data difference activities",
+    "value": ""
+  },
+  "error_assignee_id": {
+    "name": "error_assignee_id",
+    "label": "Employee to follow up import error activities",
+    "value": ""
+  },
+  "campaign_option_group": {
+    "name": "campaign_option_group",
+    "label": "Option Group to load the internal CiviCRM campaigns in",
+    "value": ""
+  },
+  "import_location": {
+    "name": "import_location",
+    "label": "Folder to get CSV files from",
+    "value": "\/var\/www\/html\/forumzfd\/sites\/default\/files\/civicrm\/csv_load\/"
+  },
+  "processed_location": {
+    "name": "processed_location",
+    "label": "Folder to move processed CSV files to",
+    "value": "\/var\/www\/html\/forumzfd\/sites\/default\/files\/civicrm\/csv_processed\/"
+  },
+  "failed_location": {
+    "name": "failed_location",
+    "label": "Folder to move failed CSV files to",
+    "value": "\/var\/www\/html\/forumzfd\/sites\/default\/files\/civicrm\/csv_failed\/"
+  }
+}
